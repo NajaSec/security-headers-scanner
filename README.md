@@ -1,4 +1,4 @@
-```markdown
+
 # Security Header Analyzer
 
 Python tool for scanning HTTP security headers with weighted scoring.
